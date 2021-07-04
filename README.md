@@ -1,2 +1,2 @@
-# OFKL
-Oliveoil's Free Keystroke Launcher
+# Oliveoil's Free Keystroke Launcher
+OFKL
